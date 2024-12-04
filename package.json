@@ -1,0 +1,9 @@
+{
+  "name": "@botika-io/ex1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "version": "1.0.0",
+  "dependencies": {},
+  "private": true
+}
